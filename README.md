@@ -6,4 +6,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 ## [**01. R Programming Basic Concepts [Loi] - 11/01/2026; Online**](Lecture_01/)
 - [R Programming Basic](Lecture_01/L01-Basics.pdf)
 - [Patterned Vectors](Lecture_01/L01a-Patterned-Vectors.pdf)
-- Exercises:
+- [How to install R and Rstudio](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
+- [Lab Exercises]()
+- [Home Assignment 01]()
+  
