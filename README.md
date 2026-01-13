@@ -11,12 +11,14 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 ## [**02. Patterned Vectors in R [Loi] - 13/01/2026; Online**](Lecture_02/)
 - [PDF](Lecture_02/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
+- [Basic R Cheat Sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+- [Advance R Cheat Sheet](https://annakrystalli.me/rrresearchACCE20/assets/cheatsheets/advancedR.pdf)
 
 ## [**03. Control Flow and Functions [Loi] - 14/01/2026; Online**](Lecture_03/)
 - [PDF](Lecture_03/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**04. Matrices [Loi] - 17/01/2026; ROOM 302H2 **](Lecture_04/)
+## [**04. Matrices [Loi] - 17/01/2026; ROOM 302H2**](Lecture_04/)
 - [PDF](Lecture_04/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
@@ -24,44 +26,46 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 - [PDF](Lecture_05/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**06. Factors and Data Frames [Loi] - 17/01/2026; ROOM **](Lecture_06/)
+## [**06. Factors and Data Frames [Loi] - 17/01/2026; ROOM 302H2**](Lecture_06/)
 - [PDF](Lecture_06/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**07. Palindromes [Loi] - 17/01/2026; ROOM **](Lecture_07/)
+## [**07. Palindromes [Loi] - 17/01/2026; ROOM 302H2**](Lecture_07/)
 - [PDF](Lecture_07/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**08. Basic Plots and ggplot [Loi] - 17/01/2026; ROOM **](Lecture_08/)
+## [**08. Basic Plots and ggplot [Loi] - 17/01/2026; ROOM 302H2**](Lecture_08/)
 - [PDF](Lecture_01/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**09. R Programming Object [Loi] - 17/01/2026; ROOM **](Lecture_09/)
+## [**09. R Programming Object [Loi] - 17/01/2026; ROOM**](Lecture_09/)
 - [S3](Lecture_09/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 - [S4](Lecture_09/L01a-Patterned-Vectors.pdf)
+- - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 - [M](Lecture_09/L01a-Patterned-Vectors.pdf)
+- - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**10. Installing and Creating Packages [Loi] - 17/01/2026; ROOM **](Lecture_10/)
+## [**10. Installing and Creating Packages [Loi] - 17/01/2026; ROOM**](Lecture_10/)
 - [PDF](Lecture_10/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**11. Efficiency [Loi] - 17/01/2026; ROOM **](Lecture_11/)
+## [**11. Efficiency [Loi] - 17/01/2026; ROOM**](Lecture_11/)
 - [PDF](Lecture_11/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**12. Scoping [Loi] - 17/01/2026; ROOM **](Lecture_12/)
+## [**12. Scoping [Loi] - 17/01/2026; ROOM**](Lecture_12/)
 - [PDF](Lecture_12/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**13. Description Statistics [Loi] - 17/01/2026; ROOM **](Lecture_13/)
+## [**13. Description Statistics [Loi] - 17/01/2026; ROOM**](Lecture_13/)
 - [PDF](Lecture_13/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**14. Inference Statistics [Loi] - 17/01/2026; ROOM **](Lecture_14/)
+## [**14. Inference Statistics [Loi] - 17/01/2026; ROOM**](Lecture_14/)
 - [PDF](Lecture_15/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## [**15. Linear Regression and Logistic Regression [Loi] - 17/01/2026; ROOM **](Lecture_15/)
+## [**15. Linear Regression and Logistic Regression [Loi] - 17/01/2026; ROOM**](Lecture_15/)
 - [PDF](Lecture_15/L01a-Patterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
