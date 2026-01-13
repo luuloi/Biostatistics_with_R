@@ -15,7 +15,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 - [Advance R Cheat Sheet](https://annakrystalli.me/rrresearchACCE20/assets/cheatsheets/advancedR.pdf)
 
 ## [**03. Control Flow and Functions [Loi] - 14/01/2026; Online**](Lecture_03/)
-- [PDF](Lecture_03/L01a-Patterned-Vectors.pdf)
+- [PDF](Lecture_03/L03-Programming.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
 ## [**04. Matrices [Loi] - 17/01/2026; ROOM 302H2**](Lecture_04/)
