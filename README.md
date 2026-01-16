@@ -16,7 +16,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## [**03. Control Flow and Functions [Loi] - 14/01/2026; Online**](Lecture_03/)
 - [PDF](Lecture_03/L03-Programming.pdf)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fCBMhTClLSxLK6kX2lQlg7LqkBWkjfhL#scrollTo=2cDeTZ2_OVj0)
 
 ## [**04. Matrices [Loi] - 17/01/2026; ROOM 302H2**](Lecture_04/)
 - [PDF](Lecture_04/L04-Matrices.pdf)
