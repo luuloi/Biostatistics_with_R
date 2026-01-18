@@ -36,7 +36,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## [**08. Basic Plots and ggplot [Loi] - 18/01/2026; ROOM 302H2**](Lecture_08/)
 - [Basic Plots](Lecture_08/L08-Graphics.pdf)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rOvMlsaR62LaF12bMNiiRX2DiEZE7vtv?usp=sharing)
 - [GGplot](Lecture_08/L08-1-ggplot.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
