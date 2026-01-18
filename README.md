@@ -28,7 +28,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## [**06. Factors and Data Frames [Loi] - 17/01/2026; ROOM 302H2**](Lecture_06/)
 - [PDF](Lecture_06/L06_Data_Handling.pdf)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GGx69JJa6SoodlaSYk6peE1AOgpYeUbU#scrollTo=k69v6WAp84hd)
 
 ## [**07. Palindromes [Loi] - 17/01/2026; ROOM 302H2**](Lecture_07/)
 - [PDF](Lecture_07/L07-Palindromes.pdf)
