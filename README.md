@@ -66,9 +66,9 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 - Lab Practice (visualization) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cC-5qpsYCRXpMqbMmXOg1xdRF0yqzsM?usp=sharing)
 
 ## [**14. Inference Statistics [Loi] - 25/01/2026; ROOM**](Lecture_14/)
-- [PDF](Lecture_15/L01a-Patterned-Vectors.pdf)
+- [PDF](Lecture_14/Inferential_statistic.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uWjX-h50CDygGoycyGGfSPGyD7S886Ta#scrollTo=HXiA-H_n1hhV)
 
 ## [**15. Linear Regression and Logistic Regression [Loi] - 27/01/2026; ROOM**](Lecture_15/)
-- [PDF](Lecture_15/L01a-Patterned-Vectors.pdf)
+- [PDF](Lecture_15/Logistic_regression.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
