@@ -106,7 +106,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## **Exam**
 
-	•	Day (18:15 to 19:15 - 12/02/2026): Project Presentation
+	•	Day (11:00 to 13:00 - 12/02/2026): Project Presentation
 
 	
 ![List of Poster Presentation and Dates](images/Danh_sach_thi.png "Danh sách thi")
