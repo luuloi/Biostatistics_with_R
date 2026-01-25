@@ -103,7 +103,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 - [PDF](Lecture_15/Logistic_regression.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-[**16. End Term Exam including 3 parts  [Loi] - 14 to 16:30 PM 12/02/2026; Online**](https://docs.google.com/spreadsheets/d/1uARTvP9NUwztKPT-jt_PuwhNGhCiJtRjI9_wSj4cMDw/edit?usp=sharing)
+## [**16. End Term Exam including 3 parts  [Loi] - 14 to 16:30 PM 12/02/2026; Online**](https://docs.google.com/spreadsheets/d/1uARTvP9NUwztKPT-jt_PuwhNGhCiJtRjI9_wSj4cMDw/edit?usp=sharing)
 - [Exam Registration before 4PM 28/01/2026](https://docs.google.com/spreadsheets/d/1uARTvP9NUwztKPT-jt_PuwhNGhCiJtRjI9_wSj4cMDw/edit?usp=sharing)
 - Oral exam (20%): two questions each student
 - 3 min and 1 slide Presentation of a group of max 3 students (30%), 12 projects are listed below
