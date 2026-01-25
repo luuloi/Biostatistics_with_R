@@ -146,5 +146,3 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
     
 - [min 5 pages, max 20 pages] Printed Report of the above Projects (50%): one Report each student and submitted to Ms Ngan, Ms Biet or Mr Le Dat, Mr Bang before 4PM 09/01/2026
 
-	
-![List of Poster Presentation and Dates](images/Danh_sach_thi.png "Danh sách thi")
