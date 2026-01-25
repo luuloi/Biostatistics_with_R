@@ -38,7 +38,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## [**06. Factors and Data Frames [Loi] - 17/01/2026; ROOM 302H2**](Lecture_06/)
 - [PDF](Lecture_06/L06_Data_Handling.pdf)
-- GGcolab - Ngọc Tuyết: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- GGcolab - Ngọc Tuyết: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KUNNk7k7gt7MGr-WsG1H9nf9EmFrGp3l?usp=sharing)
 - GGcolab - : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GGx69JJa6SoodlaSYk6peE1AOgpYeUbU#scrollTo=k69v6WAp84hd)
 
