@@ -103,9 +103,48 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 - [PDF](Lecture_15/Logistic_regression.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
-## **Exam**
-
-	•	Day (11:00 to 13:00 - 12/02/2026): Project Presentation
+[**16. End Term Exam including 3 parts  [Loi] - 14 to 16:30 PM 12/02/2026; Online**](https://docs.google.com/spreadsheets/d/1uARTvP9NUwztKPT-jt_PuwhNGhCiJtRjI9_wSj4cMDw/edit?usp=sharing)
+- [Exam Registration before 4PM 28/01/2026](https://docs.google.com/spreadsheets/d/1uARTvP9NUwztKPT-jt_PuwhNGhCiJtRjI9_wSj4cMDw/edit?usp=sharing)
+- Oral exam (20%): two questions each student
+- 3 min and 1 slide Presentation of a group of max 3 students (30%), 12 projects are listed below
+  + [Project 1: Greenhouse Plant Growth 1]
+    - [About the data](https://www.kaggle.com/datasets/adilshamim8/greenhouse-plant-growth-metrics)
+    - [Download Data Here](Final_Exam_Data/plant_growth_01.csv)
+  + [Project 2: Greenhouse Plant Growth 2]
+    - [About the data](https://www.kaggle.com/datasets/adilshamim8/greenhouse-plant-growth-metrics)
+    - [Download Data Here](Final_Exam_Data/plant_growth_02.csv)
+  + [Project 3: Greenhouse Plant Growth 3]
+    - [About the data](https://www.kaggle.com/datasets/adilshamim8/greenhouse-plant-growth-metrics)
+    - [Download Data Here](Final_Exam_Data/plant_growth_03.csv)
+  + [Project 4: Smart Crop yield predication dataset]
+    - [About the data](https://www.kaggle.com/datasets/miadul/smart-crop-yield-predication-dataset)
+    - [Download Data Here](Final_Exam_Data/crop_yield_dataset.csv)
+  + [Project 5: Stroke Risk Prediction Dataset Based on Symptoms]
+    - [About the data](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset)
+    - [Download Data Here](Final_Exam_Data/stroke_risk_dataset.csv)
+  + [Project 6: Cow Mastitis (From milk)]
+    - [About the data](https://www.kaggle.com/datasets/amithadityacp/cow-mastitisfrom-milk)
+    - [Download Data Here](Final_Exam_Data/cow_milk_mastitis_dataset.csv)
+  + [Project 7: Crop Yield Prediction]
+    - [About the data](https://www.kaggle.com/datasets/miadul/smart-crop-recommendation-dataset)
+    - [Download Data Here](Final_Exam_Data/crop-yield.csv)
+  + [Project 8: Elderly Fall Prediction and Detection]
+    - [About the data](https://www.kaggle.com/datasets/laavanya/elderly-fall-prediction-and-detection)
+    - [Download Data Here](Final_Exam_Data/cStick.csv)
+  + [Project 9: Milk Quality Prediction]
+    - [About the data](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality)
+    - [Download Data Here](Final_Exam_Data/milknew.csv)
+  + [Project 10: Binary Classification Prediction for type of Breast Cancer]
+    - [About the data](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+    - [Download Data Here](Final_Exam_Data/breast-cancer.csv)
+  + [Project 11: Lung Cancer Risk]
+    - [About the data](https://www.kaggle.com/datasets/mikeytracegod/lung-cancer-risk-dataset)
+    - [Download Data Here](Final_Exam_Data/lung_cancer_dataset.csv)
+  + [Project 12: Wine Quality]
+    - [About the data](https://www.kaggle.com/datasets/abdelazizsami/wine-quality)
+    - [Download Data Here](Final_Exam_Data/winequality-red.csv)
+    
+- [min 5 pages, max 20 pages] Printed Report of the above Projects (50%): one Report each student and submitted to Ms Ngan, Ms Biet or Mr Le Dat, Mr Bang before 4PM 09/01/2026
 
 	
 ![List of Poster Presentation and Dates](images/Danh_sach_thi.png "Danh sách thi")
