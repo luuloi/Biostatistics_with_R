@@ -31,7 +31,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## [**05. Numerical Computation [Loi] - 17/01/2026; ROOM 302H2**](Lecture_05/)
 - [PDF](Lecture_05/L05-Numerics.pdf)
-- GGcolab - Quỳnh Giao: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- GGcolab - Quỳnh Giao: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rpx6c6IJE69ANpdUADVzdoreqrw_tMyF?usp=sharing)
 - GGcolab - : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 
