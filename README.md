@@ -63,7 +63,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 - GGcolab - : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 - [S4](Lecture_09/L09-2-Objects-S4.pdf)
-- GGcolab - Hữu Bằng (S4): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- GGcolab - Hữu Bằng (S4): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uLbUnZd18othhS7NTEGNOXqjLu2SA8Ub?usp=sharing)
 - GGcolab - : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0#scrollTo=PMNFvt1Gl_N3)
 - [M](Lecture_09/L09-3-Objects-m.pdf)
