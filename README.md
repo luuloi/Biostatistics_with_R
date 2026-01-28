@@ -26,7 +26,7 @@ Môn Thống kê Sinh Học với R cho chuyên ngành Công Nghệ Sinh Học -
 
 ## [**04. Matrices [Loi] - 17/01/2026; ROOM 302H2**](Lecture_04/)
 - [PDF](Lecture_04/L04-Matrices.pdf)
-- GGcolab - Minh Thu: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- GGcolab - Minh Thu: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12EMGsRXPI2izHQaXn9WdBwxgkVqh2XyX?usp=drive_link)
 - GGcolab - Nhu Biet: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tJNlEcwNOzR_nLTLjCnEQw5VuDahER3n?usp=sharing)
 
